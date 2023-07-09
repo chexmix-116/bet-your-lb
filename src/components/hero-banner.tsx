@@ -37,7 +37,7 @@ export function HeroBanner(props: IHeroBannerProps) {
             <div className="text-center">
               <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
                 Lose <span className="underline">pounds</span>, Win your
-                friend's <span className="underline">money</span>
+                friend&apos;s <span className="underline">money</span>
               </h1>
               <p className="mt-6 text-lg leading-8 text-gray-600">
                 Bet Your Weight, the ultimate fitness companion that combines
